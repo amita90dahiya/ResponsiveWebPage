@@ -1,0 +1,81 @@
+.top{
+	margin-top: 2%;
+}
+.logo{
+	margin-left: 10%;
+}
+.name_title {
+    float: right;
+    margin-right: 10%;
+    font-weight: bold;
+    letter-spacing: 2px; 
+}
+.name{
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+.title{
+	font-size: 1.2em;
+	text-transform: uppercase;
+	text-align: right;
+}
+a{
+	text-decoration: none;
+	color: #000;
+	font-size: 1.0em;
+}
+hr{
+	width: 100%;
+}
+.section_link{
+	margin-top: 2%;
+}
+.section_name{
+	font-weight:bold;
+
+}
+.middle{
+	 margin-left: 10%;
+}
+.center_img {
+    width: 91%;
+}
+.work_img{
+	width:30%;
+}
+.section_name{
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.appify{
+	margin-left: 12%;
+}
+.sunflower{
+	margin-left: 21%;
+}
+.bokeh{
+	margin-left: 24%;
+}
+.appify_link, .sunflower_link, .bokeh_link{
+	font-size: 1.2em;
+}
+.appify_link{
+	margin-left: 5%;
+}
+.sunflower_link{
+	margin-left: 5%;
+}
+.bokeh_link{
+	margin-left: 7%;
+}
+.flex-container{
+	display: flex;
+	justify-content: space-around;
+	margin-right: 11%;
+	font-size: 1.0em;
+}
+.box1, .box2, .box3 {
+	width:100%;
+	height: 50%;
+	background-color: #000;
+}
